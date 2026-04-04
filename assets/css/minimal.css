@@ -431,11 +431,11 @@ li {
 .about-grid {
   max-width: 800px;
   margin: 0 auto;
+  margin-bottom: var(--space-lg);
   text-align: center;
 }
 
 .about-content {
-  text-align: center;
 }
 
 .about-highlights {
